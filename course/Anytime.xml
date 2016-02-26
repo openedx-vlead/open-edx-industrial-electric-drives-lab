@@ -1,0 +1,16 @@
+<course display_name="Industrial Electric Drives and Application of PLC">
+  <chapter url_name="Introduction"/>
+  <chapter url_name="INTRODUCTION_TO_PROGRAMMABLE_LOGIC_CONTROLLER_AND_INTRODUCTION_TO_DIGITAL_IO_INTERFACE_TO_PLC"/>
+  <chapter url_name="INTRODUCTION_TO_LADDER_LOGIC"/>
+  <chapter url_name="PLC_On-Delay_Timer_Instruction"/>
+  <chapter url_name="PLC_Off-Delay_Timer_Instruction"/>
+  <chapter url_name="PLC_Retentive_Timer_on_Instruction"/>
+  <chapter url_name="PLC_COUNT-UP_INSTRUCTION"/>
+  <chapter url_name="PLC_COUNT-DOWN_INSTRUCTION"/>
+  <chapter url_name="Garage_Shutter_Opening_and_Closing_Using_PLC"/>
+  <chapter url_name="Container_Filling_Process_Using_PLC"/>
+  <chapter url_name="Simultaneous_output_interlock_using_PLC"/>
+  <chapter url_name="Maximum_Simultaneous_Operations_Limiter_using_PLC"/>
+  <chapter url_name="Motor_forward_and_reverse_direction_control_using_PLC"/>
+  <wiki slug="NITK.IED.Anytime"/>
+</course>
