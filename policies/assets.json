@@ -1,0 +1,1411 @@
+{
+    "1.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "1.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "1.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@1.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "1-gif.jpg", 
+            null
+        ]
+    }, 
+    "1a.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "1a.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "1a.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@1a.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "1a-gif.jpg", 
+            null
+        ]
+    }, 
+    "1aa.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "1aa.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "1aa.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@1aa.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "1aa-gif.jpg", 
+            null
+        ]
+    }, 
+    "1bb.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "1bb.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "1bb.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@1bb.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "1bb-gif.jpg", 
+            null
+        ]
+    }, 
+    "1cc.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "1cc.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "1cc.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@1cc.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "1cc-gif.jpg", 
+            null
+        ]
+    }, 
+    "1dd.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "1dd.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "1dd.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@1dd.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "1dd-gif.jpg", 
+            null
+        ]
+    }, 
+    "1quiz.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "1quiz.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "1quiz.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@1quiz.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "1quiz-gif.jpg", 
+            null
+        ]
+    }, 
+    "2.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "2.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "2.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@2.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "2-gif.jpg", 
+            null
+        ]
+    }, 
+    "23.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "23.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "23.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@23.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "23-gif.jpg", 
+            null
+        ]
+    }, 
+    "2a.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "2a.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "2a.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@2a.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "2a-gif.jpg", 
+            null
+        ]
+    }, 
+    "3a.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "3a.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "3a.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@3a.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "3a-gif.jpg", 
+            null
+        ]
+    }, 
+    "4.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "4.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "4.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@4.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "4-gif.jpg", 
+            null
+        ]
+    }, 
+    "4a.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "4a.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "4a.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@4a.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "4a-gif.jpg", 
+            null
+        ]
+    }, 
+    "4b.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "4b.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "4b.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@4b.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "4b-gif.jpg", 
+            null
+        ]
+    }, 
+    "4quiz.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "4quiz.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "4quiz.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@4quiz.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "4quiz-gif.jpg", 
+            null
+        ]
+    }, 
+    "5.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "5.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "5.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@5.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "5-gif.jpg", 
+            null
+        ]
+    }, 
+    "5a.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "5a.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "5a.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@5a.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "5a-gif.jpg", 
+            null
+        ]
+    }, 
+    "9.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "9.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "9.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@9.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "9-gif.jpg", 
+            null
+        ]
+    }, 
+    "9a.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "9a.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "9a.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@9a.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "9a-gif.jpg", 
+            null
+        ]
+    }, 
+    "9b.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "9b.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "9b.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@9b.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "9b-gif.jpg", 
+            null
+        ]
+    }, 
+    "9c.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "9c.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "9c.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@9c.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "9c-gif.jpg", 
+            null
+        ]
+    }, 
+    "NITK-Industrial_Electric_Drives.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "NITK-Industrial_Electric_Drives.jpg", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "NITK-Industrial Electric Drives.jpg", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@NITK-Industrial_Electric_Drives.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "NITK-Industrial_Electric_Drives.jpg", 
+            null
+        ]
+    }, 
+    "andlogic.swf": {
+        "contentType": "application/x-shockwave-flash", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "andlogic.swf", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "andlogic.swf", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@andlogic.swf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "icons_Industrial_Electrical.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "icons_Industrial_Electrical.png", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "icons_Industrial Electrical.png", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@icons_Industrial_Electrical.png", 
+        "import_path": "icons_Industrial Electrical.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "icons_Industrial_Electrical-png.jpg", 
+            null
+        ]
+    }, 
+    "intro-sel-2a.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-sel-2a.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-sel-2a.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-2a.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-sel-2a-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-sel-2b.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-sel-2b.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-sel-2b.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-2b.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-sel-2b-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-sel-2c.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-sel-2c.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-sel-2c.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-2c.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-sel-2c-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-sel-2d.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-sel-2d.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-sel-2d.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-2d.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-sel-2d-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-sel-3a.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-sel-3a.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-sel-3a.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-3a.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-sel-3a-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-sel-3b.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-sel-3b.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-sel-3b.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-3b.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-sel-3b-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-sel-3c.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-sel-3c.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-sel-3c.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-3c.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-sel-3c-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-sel-3d.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-sel-3d.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-sel-3d.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-3d.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-sel-3d-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-sel-4a.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-sel-4a.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-sel-4a.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-4a.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-sel-4a-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-sel-4b.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-sel-4b.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-sel-4b.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-4b.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-sel-4b-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-sel-4c.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-sel-4c.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-sel-4c.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-4c.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-sel-4c-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-sel-4d.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-sel-4d.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-sel-4d.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-4d.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-sel-4d-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-sel-5a.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-sel-5a.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-sel-5a.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-5a.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-sel-5a-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-sel-5b.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-sel-5b.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-sel-5b.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-5b.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-sel-5b-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-sel-5c.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-sel-5c.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-sel-5c.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-5c.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-sel-5c-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-sel-5d.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-sel-5d.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-sel-5d.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-5d.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-sel-5d-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-sel-ev2.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-sel-ev2.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-sel-ev2.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-ev2.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-sel-ev2-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-sel-ev3.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-sel-ev3.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-sel-ev3.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-ev3.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-sel-ev3-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-sel-ev4.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-sel-ev4.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-sel-ev4.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-ev4.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-sel-ev4-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-sel-ev5.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-sel-ev5.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-sel-ev5.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-ev5.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-sel-ev5-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-self-a.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-self-a.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-self-a.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-self-a.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-self-a-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-self-b.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-self-b.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-self-b.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-self-b.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-self-b-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-self-c.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-self-c.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-self-c.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-self-c.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-self-c-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-self-d.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-self-d.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-self-d.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-self-d.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-self-d-gif.jpg", 
+            null
+        ]
+    }, 
+    "intro-self-ev.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "intro-self-ev.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "intro-self-ev.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-self-ev.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "intro-self-ev-gif.jpg", 
+            null
+        ]
+    }, 
+    "ladder-self1.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "ladder-self1.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "ladder-self1.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@ladder-self1.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "ladder-self1-gif.jpg", 
+            null
+        ]
+    }, 
+    "ladder-self1a.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "ladder-self1a.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "ladder-self1a.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@ladder-self1a.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "ladder-self1a-gif.jpg", 
+            null
+        ]
+    }, 
+    "ladder-self2a.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "ladder-self2a.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "ladder-self2a.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@ladder-self2a.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "ladder-self2a-gif.jpg", 
+            null
+        ]
+    }, 
+    "ladder-self3a.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "ladder-self3a.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "ladder-self3a.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@ladder-self3a.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "ladder-self3a-gif.jpg", 
+            null
+        ]
+    }, 
+    "ladder-self4.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "ladder-self4.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "ladder-self4.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@ladder-self4.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "ladder-self4-gif.jpg", 
+            null
+        ]
+    }, 
+    "ladder-self4a.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "ladder-self4a.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "ladder-self4a.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@ladder-self4a.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "ladder-self4a-gif.jpg", 
+            null
+        ]
+    }, 
+    "ladder-self5a.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "ladder-self5a.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "ladder-self5a.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@ladder-self5a.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "ladder-self5a-gif.jpg", 
+            null
+        ]
+    }, 
+    "max1.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "max1.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "max1.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@max1.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "max1-gif.jpg", 
+            null
+        ]
+    }, 
+    "q4.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "q4.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "q4.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@q4.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "q4-gif.jpg", 
+            null
+        ]
+    }, 
+    "sim3.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE08", 
+            "name": "sim3.gif", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "sim3.gif", 
+        "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@sim3.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "EEE08", 
+            "thumbnail", 
+            "sim3-gif.jpg", 
+            null
+        ]
+    }
+}
