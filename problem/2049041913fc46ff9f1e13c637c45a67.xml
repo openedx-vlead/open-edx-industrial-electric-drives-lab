@@ -1,0 +1,51 @@
+<problem display_name="Multiple Choice" markdown="1. The default counter file is ___________&#10;( ) File 4&#10;( ) File 3&#10;( ) File 2&#10;(x) File 5&#10;2. A typical counter counts from 0 upto a predetermined value, called the _________ .&#10;( ) Accumulated value&#10;(x) Preset value&#10;3. Any data file, which is greater than _________ can be assigned as an additional counter.&#10;( ) File 6&#10;(x) File 7&#10;( ) File 8&#10;( ) None&#10;4. In word zero of the counter element, bit 10 represents&#10;(x) UA bit&#10;( ) UN bit&#10;( ) OV bit&#10;( ) None&#10;5. In default counter file, how to address the counter’s 12 preset value?&#10;(x) C5:12.PRE&#10;( ) C5:12/PRE&#10;( ) C5:12-PRE&#10;( ) All">
+<p>1. The default counter file is ___________</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">File 4</choice>
+    <choice correct="false">File 3</choice>
+    <choice correct="false">File 2</choice>
+    <choice correct="true">File 5</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. A typical counter counts from 0 upto a predetermined value, called the _________ .</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Accumulated value</choice>
+    <choice correct="true">Preset value</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3. Any data file, which is greater than _________ can be assigned as an additional counter.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">File 6</choice>
+    <choice correct="true">File 7</choice>
+    <choice correct="false">File 8</choice>
+    <choice correct="false">None</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4. In word zero of the counter element, bit 10 represents</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">UA bit</choice>
+    <choice correct="false">UN bit</choice>
+    <choice correct="false">OV bit</choice>
+    <choice correct="false">None</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5. In default counter file, how to address the counter’s 12 preset value?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">C5:12.PRE</choice>
+    <choice correct="false">C5:12/PRE</choice>
+    <choice correct="false">C5:12-PRE</choice>
+    <choice correct="false">All</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

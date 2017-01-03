@@ -1,0 +1,16 @@
+<course advertised_start="Anytime" course_image="NITK-Industrial Electric Drives.jpg" display_name="Industrial Electric Drives" end="null" enrollment_end="null" enrollment_start="null" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2016-09-29T00:00:00+00:00&quot;">
+  <chapter url_name="521d75984f20493896a5859d83bc9880"/>
+  <chapter url_name="71fc5bc4493e4b85b931756502f32139"/>
+  <chapter url_name="PLC_On-Delay_Timer_Instruction"/>
+  <chapter url_name="PLC_Off-Delay_Timer_Instruction"/>
+  <chapter url_name="PLC_Retentive_Timer_on_Instruction"/>
+  <chapter url_name="PLC_COUNT-UP_INSTRUCTION"/>
+  <chapter url_name="PLC_COUNT-DOWN_INSTRUCTION"/>
+  <chapter url_name="Garage_Shutter_Opening_and_Closing_Using_PLC"/>
+  <chapter url_name="Container_Filling_Process_Using_PLC"/>
+  <chapter url_name="Simultaneous_output_interlock_using_PLC"/>
+  <chapter url_name="Maximum_Simultaneous_Operations_Limiter_using_PLC"/>
+  <chapter url_name="Motor_forward_and_reverse_direction_control_using_PLC"/>
+  <chapter url_name="83d47c74c4f446659c230629bc92fa61"/>
+  <wiki slug="NIT_Surathkal.EEE08.Anytime"/>
+</course>

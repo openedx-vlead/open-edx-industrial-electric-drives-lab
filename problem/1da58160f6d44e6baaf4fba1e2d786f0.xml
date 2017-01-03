@@ -1,0 +1,42 @@
+<problem display_name="Multiple Choice" markdown="1. In timer element, word zero is for _______&#10;( ) Accumulated value&#10;(x) Preset value&#10;( ) Status bits&#10;2. In a default timer file, timer 3's done bit is addressed as ________&#10;(x) T4:3/DN&#10;( ) T3:4.DN&#10;( ) T3:4/DN&#10;( ) T4:3.DN&#10;3. A timer element is made up of ___16 bit words.&#10;( ) Four&#10;( ) Two&#10;(x) Three&#10;( ) One&#10;4. The preset value of timer 9 , in default timer file 4, is addressed as _________&#10;(x) T4:9.PRE&#10;( ) T9:4/PRE&#10;( ) T4:9/PRE&#10;( ) T4:9/PRE">
+<p>1. In timer element, word zero is for _______</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Accumulated value</choice>
+    <choice correct="true">Preset value</choice>
+    <choice correct="false">Status bits</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. In a default timer file, timer 3's done bit is addressed as ________</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">T4:3/DN</choice>
+    <choice correct="false">T3:4.DN</choice>
+    <choice correct="false">T3:4/DN</choice>
+    <choice correct="false">T4:3.DN</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3. A timer element is made up of ___16 bit words.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Four</choice>
+    <choice correct="false">Two</choice>
+    <choice correct="true">Three</choice>
+    <choice correct="false">One</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4. The preset value of timer 9 , in default timer file 4, is addressed as _________</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">T4:9.PRE</choice>
+    <choice correct="false">T9:4/PRE</choice>
+    <choice correct="false">T4:9/PRE</choice>
+    <choice correct="false">T4:9/PRE</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

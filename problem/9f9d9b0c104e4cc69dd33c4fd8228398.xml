@@ -1,0 +1,63 @@
+<problem display_name="Multiple Choice" markdown="1. Consider the following PLC Ladder rung &#10;&lt;p&gt;&lt;img src=&quot;/static/ladder-self1.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;For the following input status file bit condition shown below&#10;&lt;p&gt;&lt;img src=&quot;/static/ladder-self1a.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;The output O1&#10;(x)    Will be energized&#10; ( )   Will not be energized&#10;2. Consider the following PLC Ladder rung &#10;&lt;p&gt;&lt;img src=&quot;/static/ladder-self1.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;For the following input status file bit condition shown below&#10;&lt;p&gt;&lt;img src=&quot;/static/ladder-self2a.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;The output O1&#10;( )    Will be energized&#10; (x)   Will not be energized&#10;&#10;3. Consider the following PLC Ladder rung &#10;&lt;p&gt;&lt;img src=&quot;/static/ladder-self1.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;For the following input status file bit condition shown below&#10;&lt;p&gt;&lt;img src=&quot;/static/ladder-self3a.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;The output O1&#10;( )    Will be energized&#10; (x)   Will not be energized&#10;&#10;4. Consider the following PLC Ladder rung &#10;&lt;p&gt;&lt;img src=&quot;/static/ladder-self4.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;For the following input status file bit condition shown below&#10;&lt;p&gt;&lt;img src=&quot;/static/ladder-self4a.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;The output O1&#10;(x)    Will be energized&#10; ( )   Will not be energized&#10;&#10;5. Consider the following PLC Ladder rung &#10;&lt;p&gt;&lt;img src=&quot;/static/ladder-self1.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;For the following input status file bit condition shown below&#10;&lt;p&gt;&lt;img src=&quot;/static/ladder-self5a.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;The output O1&#10;(x)    Will be energized&#10; ( )   Will not be energized">
+<p>1. Consider the following PLC Ladder rung </p>
+<p><img src="/static/ladder-self1.gif" width="350" height="120"/></p>
+<p>For the following input status file bit condition shown below</p>
+<p><img src="/static/ladder-self1a.gif" width="350" height="120"/></p>
+<p>The output O1</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Will be energized</choice>
+    <choice correct="false">Will not be energized</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. Consider the following PLC Ladder rung </p>
+<p><img src="/static/ladder-self1.gif" width="350" height="120"/></p>
+<p>For the following input status file bit condition shown below</p>
+<p><img src="/static/ladder-self2a.gif" width="350" height="120"/></p>
+<p>The output O1</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Will be energized</choice>
+    <choice correct="true">Will not be energized</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3. Consider the following PLC Ladder rung </p>
+<p><img src="/static/ladder-self1.gif" width="350" height="120"/></p>
+<p>For the following input status file bit condition shown below</p>
+<p><img src="/static/ladder-self3a.gif" width="350" height="120"/></p>
+<p>The output O1</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Will be energized</choice>
+    <choice correct="true">Will not be energized</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4. Consider the following PLC Ladder rung </p>
+<p><img src="/static/ladder-self4.gif" width="350" height="120"/></p>
+<p>For the following input status file bit condition shown below</p>
+<p><img src="/static/ladder-self4a.gif" width="350" height="120"/></p>
+<p>The output O1</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Will be energized</choice>
+    <choice correct="false">Will not be energized</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5. Consider the following PLC Ladder rung </p>
+<p><img src="/static/ladder-self1.gif" width="350" height="120"/></p>
+<p>For the following input status file bit condition shown below</p>
+<p><img src="/static/ladder-self5a.gif" width="350" height="120"/></p>
+<p>The output O1</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Will be energized</choice>
+    <choice correct="false">Will not be energized</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

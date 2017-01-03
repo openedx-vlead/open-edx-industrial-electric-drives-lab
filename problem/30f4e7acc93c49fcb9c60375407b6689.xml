@@ -1,0 +1,54 @@
+<problem display_name="Multiple Choice" markdown="1. The advantage of using PLC is&#10;( ) Accuracy and quality can be improved&#10;( ) Productivity can be improved&#10;( ) Makes it easy to work in difficult or hazardous environment&#10;(x) All&#10;&#10;2. What is the address of screw terminal 16 on a 32-point input module in slot 2?&#10;( ) I: 2.16/0&#10;( ) I: 2.0/16&#10;(x) I: 2.1/0&#10;( ) I: 2.0/1&#10;&#10;3. What is the address of screw terminal 2 on an 8-point input module in slot 3?&#10;&lt;p&gt;&lt;img src=&quot;/static/q4.gif&quot; width=&quot;135&quot; height=&quot;205&quot; /&gt;&lt;/p&gt;&#10;(x) I: 3.0/2&#10;( ) I: 2.0/3&#10;( ) I: 2.1/3&#10;( ) I: 3.2/0&#10;&#10;4. In the sensing section of PLC, it has limit switches, photoelectric sensors, push button etc. These hardware devices are called as&#10;( ) Field input and output devices&#10;( ) Field output devices&#10;(x) Field input devices&#10;( ) All&#10;&#10;5. What is the address of screw terminal 19 on a 32-point input module in slot 2?&#10;( ) I: 2.0/3&#10;(x) I: 2.1/3&#10;( ) I: 2.0/19&#10;( ) I: 2.1/19">
+<p>1. The advantage of using PLC is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Accuracy and quality can be improved</choice>
+    <choice correct="false">Productivity can be improved</choice>
+    <choice correct="false">Makes it easy to work in difficult or hazardous environment</choice>
+    <choice correct="true">All</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. What is the address of screw terminal 16 on a 32-point input module in slot 2?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">I: 2.16/0</choice>
+    <choice correct="false">I: 2.0/16</choice>
+    <choice correct="true">I: 2.1/0</choice>
+    <choice correct="false">I: 2.0/1</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3. What is the address of screw terminal 2 on an 8-point input module in slot 3?</p>
+<p><img src="/static/q4.gif" width="135" height="205"/></p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">I: 3.0/2</choice>
+    <choice correct="false">I: 2.0/3</choice>
+    <choice correct="false">I: 2.1/3</choice>
+    <choice correct="false">I: 3.2/0</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4. In the sensing section of PLC, it has limit switches, photoelectric sensors, push button etc. These hardware devices are called as</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Field input and output devices</choice>
+    <choice correct="false">Field output devices</choice>
+    <choice correct="true">Field input devices</choice>
+    <choice correct="false">All</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5. What is the address of screw terminal 19 on a 32-point input module in slot 2?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">I: 2.0/3</choice>
+    <choice correct="true">I: 2.1/3</choice>
+    <choice correct="false">I: 2.0/19</choice>
+    <choice correct="false">I: 2.1/19</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
