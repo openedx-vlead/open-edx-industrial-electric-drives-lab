@@ -1,53 +1,47 @@
 <problem display_name="Multiple Choice" markdown="1. If the diameter of the shaft used to pull the garage shutter is 4.8cm and the size of the garage shutter is 15.75feet*10 feet , rotation of the shaft is 1000rpm. Then calculate the time required by the garage shutter to open completely from its completely closed condition.&#10;(x)   5.9 sec&#10; ( )   7.2sec&#10; ( )   6.4sec&#10;  ( )  6.9sec&#10;2. If the motor used for garage shutter opening and closing produces a torque of 5N-m and the torque required to pull the garage shutter is 20N-m.Calculate the required gear ratio.&#10;(x)    4:1&#10; ( )   1:1&#10; ( )   8:1&#10; ( )   2:1&#10;3. If the mass of the garage shutter is 250kg, and shaft used to pull it, has 2.4cm diamter.Then calculate the torque required to pull the gate.&#10;( )    80N-m&#10; (x)   30N-m&#10; ( )   60N-m&#10; ( )   40N-m&#10;4. If the weight of the garage shutter is 200kg , and the diameter of the shaft used to pull is 4.8cm . calculate the torque reqired to pull the garage shutter ? Assume gravity=10 m/s2&#10;( )    72 N-m&#10; ( )   24 N-m&#10; ( )   96 N-m&#10;  (x)  48 N-m&#10;5. If the size of the gate is 15feet*10feet and it has to be opened in exact 6 sec, and diameter of the shaft used is 2.4cm. Calculate the speed of rotation of the shaft.&#10;( )    2400 rpm&#10; ( )   1600 rpm&#10; (x)   1875 rpm&#10; ( )   2100 rpm&#10;">
-<p>1. If the diameter of the shaft used to pull the garage shutter is 4.8cm and the size of the garage shutter is 15.75feet*10 feet , rotation of the shaft is 1000rpm. Then calculate the time required by the garage shutter to open completely from its completely closed condition.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">5.9 sec</choice>
-    <choice correct="false">7.2sec</choice>
-    <choice correct="false">6.4sec</choice>
-    <choice correct="false">6.9sec</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2. If the motor used for garage shutter opening and closing produces a torque of 5N-m and the torque required to pull the garage shutter is 20N-m.Calculate the required gear ratio.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">4:1</choice>
-    <choice correct="false">1:1</choice>
-    <choice correct="false">8:1</choice>
-    <choice correct="false">2:1</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3. If the mass of the garage shutter is 250kg, and shaft used to pull it, has 2.4cm diamter.Then calculate the torque required to pull the gate.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">80N-m</choice>
-    <choice correct="true">30N-m</choice>
-    <choice correct="false">60N-m</choice>
-    <choice correct="false">40N-m</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4. If the weight of the garage shutter is 200kg , and the diameter of the shaft used to pull is 4.8cm . calculate the torque reqired to pull the garage shutter ? Assume gravity=10 m/s2</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">72 N-m</choice>
-    <choice correct="false">24 N-m</choice>
-    <choice correct="false">96 N-m</choice>
-    <choice correct="true">48 N-m</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5. If the size of the gate is 15feet*10feet and it has to be opened in exact 6 sec, and diameter of the shaft used is 2.4cm. Calculate the speed of rotation of the shaft.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">2400 rpm</choice>
-    <choice correct="false">1600 rpm</choice>
-    <choice correct="true">1875 rpm</choice>
-    <choice correct="false">2100 rpm</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1. If the diameter of the shaft used to pull the garage shutter is 4.8cm and the size of the garage shutter is 15.75feet*10 feet , rotation of the shaft is 1000rpm. Then calculate the time required by the garage shutter to open completely from its completely closed condition.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">5.9 sec</choice>
+      <choice correct="false">7.2sec</choice>
+      <choice correct="false">6.4sec</choice>
+      <choice correct="false">6.9sec</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. If the motor used for garage shutter opening and closing produces a torque of 5N-m and the torque required to pull the garage shutter is 20N-m.Calculate the required gear ratio.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">4:1</choice>
+      <choice correct="false">1:1</choice>
+      <choice correct="false">8:1</choice>
+      <choice correct="false">2:1</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. If the mass of the garage shutter is 250kg, and shaft used to pull it, has 2.4cm diamter.Then calculate the torque required to pull the gate.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">80N-m</choice>
+      <choice correct="true">30N-m</choice>
+      <choice correct="false">60N-m</choice>
+      <choice correct="false">40N-m</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. If the weight of the garage shutter is 200kg , and the diameter of the shaft used to pull is 4.8cm . calculate the torque reqired to pull the garage shutter ? Assume gravity=10 m/s2</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">72 N-m</choice>
+      <choice correct="false">24 N-m</choice>
+      <choice correct="false">96 N-m</choice>
+      <choice correct="true">48 N-m</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. If the size of the gate is 15feet*10feet and it has to be opened in exact 6 sec, and diameter of the shaft used is 2.4cm. Calculate the speed of rotation of the shaft.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">2400 rpm</choice>
+      <choice correct="false">1600 rpm</choice>
+      <choice correct="true">1875 rpm</choice>
+      <choice correct="false">2100 rpm</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

@@ -1,50 +1,44 @@
 <problem display_name="Multiple Choice" markdown="1. Normally-closed solenoid valve, uses a spring which presses the plunger tip against the opening of the ______ .The sealing material at the tip of the plunger keeps the media from entering the orifice , until the plunger is lifted up by an _________ created by coil.&#10;( ) Valve body, electrochemical&#10;( ) Valve body, electromechanical&#10;(x) Orifice , electromechanical&#10;( ) Orifice , electrochemical&#10;2. Sensors which are available for point level detection of liquids are :&#10;( ) Pulse-wave ultrasonic( Non-Invasive)&#10;( ) Magnetic and mechanical float&#10;( ) Pneumatic and conductive&#10;(x) All&#10;3. The measurement of level using level sensor can be _______&#10;( ) Continuous value&#10;(x) All&#10;( ) Point value&#10;4. A proximity sensor often emits an electromagnetic field or a beam of electromagnetic radiation and looks for changes in the field or return signal.&#10;(x) The above statement is true&#10;( ) The above statement is false&#10;5. Sensor for both point level deletion or continuous monitoring of solids and liquids :&#10;( ) Capacitance&#10;( ) Ultrasonic&#10;( ) Optical interface and microwave&#10;(x) All">
-<p>1. Normally-closed solenoid valve, uses a spring which presses the plunger tip against the opening of the ______ .The sealing material at the tip of the plunger keeps the media from entering the orifice , until the plunger is lifted up by an _________ created by coil.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Valve body, electrochemical</choice>
-    <choice correct="false">Valve body, electromechanical</choice>
-    <choice correct="true">Orifice , electromechanical</choice>
-    <choice correct="false">Orifice , electrochemical</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2. Sensors which are available for point level detection of liquids are :</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Pulse-wave ultrasonic( Non-Invasive)</choice>
-    <choice correct="false">Magnetic and mechanical float</choice>
-    <choice correct="false">Pneumatic and conductive</choice>
-    <choice correct="true">All</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3. The measurement of level using level sensor can be _______</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Continuous value</choice>
-    <choice correct="true">All</choice>
-    <choice correct="false">Point value</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4. A proximity sensor often emits an electromagnetic field or a beam of electromagnetic radiation and looks for changes in the field or return signal.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">The above statement is true</choice>
-    <choice correct="false">The above statement is false</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5. Sensor for both point level deletion or continuous monitoring of solids and liquids :</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Capacitance</choice>
-    <choice correct="false">Ultrasonic</choice>
-    <choice correct="false">Optical interface and microwave</choice>
-    <choice correct="true">All</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1. Normally-closed solenoid valve, uses a spring which presses the plunger tip against the opening of the ______ .The sealing material at the tip of the plunger keeps the media from entering the orifice , until the plunger is lifted up by an _________ created by coil.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Valve body, electrochemical</choice>
+      <choice correct="false">Valve body, electromechanical</choice>
+      <choice correct="true">Orifice , electromechanical</choice>
+      <choice correct="false">Orifice , electrochemical</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. Sensors which are available for point level detection of liquids are :</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Pulse-wave ultrasonic( Non-Invasive)</choice>
+      <choice correct="false">Magnetic and mechanical float</choice>
+      <choice correct="false">Pneumatic and conductive</choice>
+      <choice correct="true">All</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. The measurement of level using level sensor can be _______</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Continuous value</choice>
+      <choice correct="true">All</choice>
+      <choice correct="false">Point value</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. A proximity sensor often emits an electromagnetic field or a beam of electromagnetic radiation and looks for changes in the field or return signal.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">The above statement is true</choice>
+      <choice correct="false">The above statement is false</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. Sensor for both point level deletion or continuous monitoring of solids and liquids :</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Capacitance</choice>
+      <choice correct="false">Ultrasonic</choice>
+      <choice correct="false">Optical interface and microwave</choice>
+      <choice correct="true">All</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

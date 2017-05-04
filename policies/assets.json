@@ -12,7 +12,7 @@
         }, 
         "displayname": "1.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@1.gif", 
-        "import_path": null, 
+        "import_path": "1.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -36,7 +36,7 @@
         }, 
         "displayname": "1a.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@1a.gif", 
-        "import_path": null, 
+        "import_path": "1a.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -60,7 +60,7 @@
         }, 
         "displayname": "1aa.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@1aa.gif", 
-        "import_path": null, 
+        "import_path": "1aa.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -84,7 +84,7 @@
         }, 
         "displayname": "1bb.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@1bb.gif", 
-        "import_path": null, 
+        "import_path": "1bb.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -108,7 +108,7 @@
         }, 
         "displayname": "1cc.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@1cc.gif", 
-        "import_path": null, 
+        "import_path": "1cc.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -132,7 +132,7 @@
         }, 
         "displayname": "1dd.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@1dd.gif", 
-        "import_path": null, 
+        "import_path": "1dd.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -156,7 +156,7 @@
         }, 
         "displayname": "1quiz.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@1quiz.gif", 
-        "import_path": null, 
+        "import_path": "1quiz.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -180,7 +180,7 @@
         }, 
         "displayname": "2.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@2.gif", 
-        "import_path": null, 
+        "import_path": "2.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -204,7 +204,7 @@
         }, 
         "displayname": "23.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@23.gif", 
-        "import_path": null, 
+        "import_path": "23.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -228,7 +228,7 @@
         }, 
         "displayname": "2a.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@2a.gif", 
-        "import_path": null, 
+        "import_path": "2a.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -252,7 +252,7 @@
         }, 
         "displayname": "3a.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@3a.gif", 
-        "import_path": null, 
+        "import_path": "3a.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -276,7 +276,7 @@
         }, 
         "displayname": "4.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@4.gif", 
-        "import_path": null, 
+        "import_path": "4.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -300,7 +300,7 @@
         }, 
         "displayname": "4a.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@4a.gif", 
-        "import_path": null, 
+        "import_path": "4a.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -324,7 +324,7 @@
         }, 
         "displayname": "4b.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@4b.gif", 
-        "import_path": null, 
+        "import_path": "4b.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -348,7 +348,7 @@
         }, 
         "displayname": "4quiz.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@4quiz.gif", 
-        "import_path": null, 
+        "import_path": "4quiz.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -372,7 +372,7 @@
         }, 
         "displayname": "5.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@5.gif", 
-        "import_path": null, 
+        "import_path": "5.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -396,7 +396,7 @@
         }, 
         "displayname": "5a.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@5a.gif", 
-        "import_path": null, 
+        "import_path": "5a.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -420,7 +420,7 @@
         }, 
         "displayname": "9.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@9.gif", 
-        "import_path": null, 
+        "import_path": "9.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -444,7 +444,7 @@
         }, 
         "displayname": "9a.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@9a.gif", 
-        "import_path": null, 
+        "import_path": "9a.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -468,7 +468,7 @@
         }, 
         "displayname": "9b.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@9b.gif", 
-        "import_path": null, 
+        "import_path": "9b.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -492,7 +492,7 @@
         }, 
         "displayname": "9c.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@9c.gif", 
-        "import_path": null, 
+        "import_path": "9c.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -516,7 +516,7 @@
         }, 
         "displayname": "NITK-Industrial Electric Drives.jpg", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@NITK-Industrial_Electric_Drives.jpg", 
-        "import_path": null, 
+        "import_path": "NITK-Industrial Electric Drives.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -540,7 +540,7 @@
         }, 
         "displayname": "andlogic.swf", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@andlogic.swf", 
-        "import_path": null, 
+        "import_path": "andlogic.swf", 
         "locked": false, 
         "thumbnail_location": null
     }, 
@@ -581,7 +581,7 @@
         }, 
         "displayname": "intro-sel-2a.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-2a.gif", 
-        "import_path": null, 
+        "import_path": "intro-sel-2a.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -605,7 +605,7 @@
         }, 
         "displayname": "intro-sel-2b.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-2b.gif", 
-        "import_path": null, 
+        "import_path": "intro-sel-2b.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -629,7 +629,7 @@
         }, 
         "displayname": "intro-sel-2c.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-2c.gif", 
-        "import_path": null, 
+        "import_path": "intro-sel-2c.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -653,7 +653,7 @@
         }, 
         "displayname": "intro-sel-2d.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-2d.gif", 
-        "import_path": null, 
+        "import_path": "intro-sel-2d.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -677,7 +677,7 @@
         }, 
         "displayname": "intro-sel-3a.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-3a.gif", 
-        "import_path": null, 
+        "import_path": "intro-sel-3a.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -701,7 +701,7 @@
         }, 
         "displayname": "intro-sel-3b.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-3b.gif", 
-        "import_path": null, 
+        "import_path": "intro-sel-3b.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -725,7 +725,7 @@
         }, 
         "displayname": "intro-sel-3c.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-3c.gif", 
-        "import_path": null, 
+        "import_path": "intro-sel-3c.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -749,7 +749,7 @@
         }, 
         "displayname": "intro-sel-3d.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-3d.gif", 
-        "import_path": null, 
+        "import_path": "intro-sel-3d.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -773,7 +773,7 @@
         }, 
         "displayname": "intro-sel-4a.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-4a.gif", 
-        "import_path": null, 
+        "import_path": "intro-sel-4a.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -797,7 +797,7 @@
         }, 
         "displayname": "intro-sel-4b.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-4b.gif", 
-        "import_path": null, 
+        "import_path": "intro-sel-4b.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -821,7 +821,7 @@
         }, 
         "displayname": "intro-sel-4c.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-4c.gif", 
-        "import_path": null, 
+        "import_path": "intro-sel-4c.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -845,7 +845,7 @@
         }, 
         "displayname": "intro-sel-4d.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-4d.gif", 
-        "import_path": null, 
+        "import_path": "intro-sel-4d.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -869,7 +869,7 @@
         }, 
         "displayname": "intro-sel-5a.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-5a.gif", 
-        "import_path": null, 
+        "import_path": "intro-sel-5a.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -893,7 +893,7 @@
         }, 
         "displayname": "intro-sel-5b.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-5b.gif", 
-        "import_path": null, 
+        "import_path": "intro-sel-5b.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -917,7 +917,7 @@
         }, 
         "displayname": "intro-sel-5c.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-5c.gif", 
-        "import_path": null, 
+        "import_path": "intro-sel-5c.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -941,7 +941,7 @@
         }, 
         "displayname": "intro-sel-5d.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-5d.gif", 
-        "import_path": null, 
+        "import_path": "intro-sel-5d.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -965,7 +965,7 @@
         }, 
         "displayname": "intro-sel-ev2.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-ev2.gif", 
-        "import_path": null, 
+        "import_path": "intro-sel-ev2.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -989,7 +989,7 @@
         }, 
         "displayname": "intro-sel-ev3.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-ev3.gif", 
-        "import_path": null, 
+        "import_path": "intro-sel-ev3.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -1013,7 +1013,7 @@
         }, 
         "displayname": "intro-sel-ev4.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-ev4.gif", 
-        "import_path": null, 
+        "import_path": "intro-sel-ev4.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -1037,7 +1037,7 @@
         }, 
         "displayname": "intro-sel-ev5.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-sel-ev5.gif", 
-        "import_path": null, 
+        "import_path": "intro-sel-ev5.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -1061,7 +1061,7 @@
         }, 
         "displayname": "intro-self-a.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-self-a.gif", 
-        "import_path": null, 
+        "import_path": "intro-self-a.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -1085,7 +1085,7 @@
         }, 
         "displayname": "intro-self-b.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-self-b.gif", 
-        "import_path": null, 
+        "import_path": "intro-self-b.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -1109,7 +1109,7 @@
         }, 
         "displayname": "intro-self-c.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-self-c.gif", 
-        "import_path": null, 
+        "import_path": "intro-self-c.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -1133,7 +1133,7 @@
         }, 
         "displayname": "intro-self-d.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-self-d.gif", 
-        "import_path": null, 
+        "import_path": "intro-self-d.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -1157,7 +1157,7 @@
         }, 
         "displayname": "intro-self-ev.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@intro-self-ev.gif", 
-        "import_path": null, 
+        "import_path": "intro-self-ev.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -1181,7 +1181,7 @@
         }, 
         "displayname": "ladder-self1.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@ladder-self1.gif", 
-        "import_path": null, 
+        "import_path": "ladder-self1.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -1205,7 +1205,7 @@
         }, 
         "displayname": "ladder-self1a.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@ladder-self1a.gif", 
-        "import_path": null, 
+        "import_path": "ladder-self1a.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -1229,7 +1229,7 @@
         }, 
         "displayname": "ladder-self2a.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@ladder-self2a.gif", 
-        "import_path": null, 
+        "import_path": "ladder-self2a.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -1253,7 +1253,7 @@
         }, 
         "displayname": "ladder-self3a.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@ladder-self3a.gif", 
-        "import_path": null, 
+        "import_path": "ladder-self3a.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -1277,7 +1277,7 @@
         }, 
         "displayname": "ladder-self4.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@ladder-self4.gif", 
-        "import_path": null, 
+        "import_path": "ladder-self4.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -1301,7 +1301,7 @@
         }, 
         "displayname": "ladder-self4a.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@ladder-self4a.gif", 
-        "import_path": null, 
+        "import_path": "ladder-self4a.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -1325,7 +1325,7 @@
         }, 
         "displayname": "ladder-self5a.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@ladder-self5a.gif", 
-        "import_path": null, 
+        "import_path": "ladder-self5a.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -1349,7 +1349,7 @@
         }, 
         "displayname": "max1.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@max1.gif", 
-        "import_path": null, 
+        "import_path": "max1.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -1373,7 +1373,7 @@
         }, 
         "displayname": "q4.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@q4.gif", 
-        "import_path": null, 
+        "import_path": "q4.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -1397,7 +1397,7 @@
         }, 
         "displayname": "sim3.gif", 
         "filename": "asset-v1:NIT-Surathkal+EEE08+Anytime+type@asset+block@sim3.gif", 
-        "import_path": null, 
+        "import_path": "sim3.gif", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 

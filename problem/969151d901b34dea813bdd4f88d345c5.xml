@@ -1,73 +1,116 @@
 <problem display_name="Multiple Choice" markdown="1.&#10;&lt;p&gt;&lt;img src=&quot;/static/1quiz.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;The above circuit can be represented by the following PLC ladder rung diagram&#10;(x) &lt;p&gt;&lt;img src=&quot;/static/1aa.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/1bb.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/1cc.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/1dd.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;&#10;2.&#10;&lt;p&gt;&lt;img src=&quot;/static/1a.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;For ladder rung shown above, choose the correct input and output status file bit condition&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/2a.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/3a.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;(x) &lt;p&gt;&lt;img src=&quot;/static/4a.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt; and &lt;img src=&quot;/static/4b.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;both are true&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/5a.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;&#10;3. The difference between the conventional relay ladder logic and PLC ladder is&#10;(x) Conventional relay ladder logic has electrical continuity and PLC ladder logic has logical continuity&#10;( ) Conventional relay ladder logic has logical continuity and PLC ladder logic has electrical continuity&#10;( ) Both can have electrical and logical continuity&#10;( ) None&#10;&#10;4.&#10;&lt;p&gt;&lt;img src=&quot;/static/4quiz.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;The above figure represents&#10;( ) NOT function&#10;( ) NOR function&#10;( ) NAND function&#10;(x) OR function&#10;&#10;5.&#10;&lt;p&gt;&lt;img src=&quot;/static/9.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;For ladder rung shown above, choose the correct input and output status file bit condition &#10;(x) &lt;p&gt;&lt;img src=&quot;/static/9a.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/9b.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;( ) None&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/9c.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;&#10;&#10;6.&#10;&lt;p&gt;&lt;img src=&quot;/static/max1.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;The above figure represents&#10;&#10;( )NAND function&#10;( ) OR function&#10;   (x) NOR function&#10;  ( )  XNOR function">
-<p>1.</p>
-<p><img src="/static/1quiz.gif" width="350" height="120"/></p>
-<p>The above circuit can be represented by the following PLC ladder rung diagram</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true"><p><img src="/static/1aa.gif" width="350" height="120"/></p></choice>
-    <choice correct="false"><p><img src="/static/1bb.gif" width="350" height="120"/></p></choice>
-    <choice correct="false"><p><img src="/static/1cc.gif" width="350" height="120"/></p></choice>
-    <choice correct="false"><p><img src="/static/1dd.gif" width="350" height="120"/></p></choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2.</p>
-<p><img src="/static/1a.gif" width="350" height="120"/></p>
-<p>For ladder rung shown above, choose the correct input and output status file bit condition</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false"><p><img src="/static/2a.gif" width="350" height="120"/></p></choice>
-    <choice correct="false"><p><img src="/static/3a.gif" width="350" height="120"/></p></choice>
-    <choice correct="true"><p><img src="/static/4a.gif" width="350" height="120"/> and <img src="/static/4b.gif" width="350" height="120"/></p>both are true</choice>
-    <choice correct="false"><p><img src="/static/5a.gif" width="350" height="120"/></p></choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3. The difference between the conventional relay ladder logic and PLC ladder is</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Conventional relay ladder logic has electrical continuity and PLC ladder logic has logical continuity</choice>
-    <choice correct="false">Conventional relay ladder logic has logical continuity and PLC ladder logic has electrical continuity</choice>
-    <choice correct="false">Both can have electrical and logical continuity</choice>
-    <choice correct="false">None</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4.</p>
-<p><img src="/static/4quiz.gif" width="350" height="120"/></p>
-<p>The above figure represents</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">NOT function</choice>
-    <choice correct="false">NOR function</choice>
-    <choice correct="false">NAND function</choice>
-    <choice correct="true">OR function</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5.</p>
-<p><img src="/static/9.gif" width="350" height="120"/></p>
-<p>For ladder rung shown above, choose the correct input and output status file bit condition </p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true"><p><img src="/static/9a.gif" width="350" height="120"/></p></choice>
-    <choice correct="false"><p><img src="/static/9b.gif" width="350" height="120"/></p></choice>
-    <choice correct="false">None</choice>
-    <choice correct="false"><p><img src="/static/9c.gif" width="350" height="120"/></p></choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>6.</p>
-<p><img src="/static/max1.gif" width="350" height="120"/></p>
-<p>The above figure represents</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">NAND function</choice>
-    <choice correct="false">OR function</choice>
-    <choice correct="true">NOR function</choice>
-    <choice correct="false">XNOR function</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1.</p>
+  <p>
+    <img src="/static/1quiz.gif" width="350" height="120"/>
+  </p>
+  <p>The above circuit can be represented by the following PLC ladder rung diagram</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">
+        <p>
+          <img src="/static/1aa.gif" width="350" height="120"/>
+        </p>
+      </choice>
+      <choice correct="false">
+        <p>
+          <img src="/static/1bb.gif" width="350" height="120"/>
+        </p>
+      </choice>
+      <choice correct="false">
+        <p>
+          <img src="/static/1cc.gif" width="350" height="120"/>
+        </p>
+      </choice>
+      <choice correct="false">
+        <p>
+          <img src="/static/1dd.gif" width="350" height="120"/>
+        </p>
+      </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2.</p>
+  <p>
+    <img src="/static/1a.gif" width="350" height="120"/>
+  </p>
+  <p>For ladder rung shown above, choose the correct input and output status file bit condition</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">
+        <p>
+          <img src="/static/2a.gif" width="350" height="120"/>
+        </p>
+      </choice>
+      <choice correct="false">
+        <p>
+          <img src="/static/3a.gif" width="350" height="120"/>
+        </p>
+      </choice>
+      <choice correct="true"><p><img src="/static/4a.gif" width="350" height="120"/> and <img src="/static/4b.gif" width="350" height="120"/></p>both are true</choice>
+      <choice correct="false">
+        <p>
+          <img src="/static/5a.gif" width="350" height="120"/>
+        </p>
+      </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. The difference between the conventional relay ladder logic and PLC ladder is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Conventional relay ladder logic has electrical continuity and PLC ladder logic has logical continuity</choice>
+      <choice correct="false">Conventional relay ladder logic has logical continuity and PLC ladder logic has electrical continuity</choice>
+      <choice correct="false">Both can have electrical and logical continuity</choice>
+      <choice correct="false">None</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4.</p>
+  <p>
+    <img src="/static/4quiz.gif" width="350" height="120"/>
+  </p>
+  <p>The above figure represents</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">NOT function</choice>
+      <choice correct="false">NOR function</choice>
+      <choice correct="false">NAND function</choice>
+      <choice correct="true">OR function</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5.</p>
+  <p>
+    <img src="/static/9.gif" width="350" height="120"/>
+  </p>
+  <p>For ladder rung shown above, choose the correct input and output status file bit condition </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">
+        <p>
+          <img src="/static/9a.gif" width="350" height="120"/>
+        </p>
+      </choice>
+      <choice correct="false">
+        <p>
+          <img src="/static/9b.gif" width="350" height="120"/>
+        </p>
+      </choice>
+      <choice correct="false">None</choice>
+      <choice correct="false">
+        <p>
+          <img src="/static/9c.gif" width="350" height="120"/>
+        </p>
+      </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>6.</p>
+  <p>
+    <img src="/static/max1.gif" width="350" height="120"/>
+  </p>
+  <p>The above figure represents</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">NAND function</choice>
+      <choice correct="false">OR function</choice>
+      <choice correct="true">NOR function</choice>
+      <choice correct="false">XNOR function</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

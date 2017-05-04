@@ -1,52 +1,46 @@
 <problem display_name="Multiple Choice" markdown="1. A timer element is made up of ___16 bit words.&#10;( ) Two&#10; (x)   Three&#10; ( )   One&#10; ( )   Four&#10;2. In timer element, word zero is for _______&#10;(x)  Preset value&#10; ( )   Status bits&#10; ( )   Accumulated value&#10;3. The preset value of timer 9 , in default timer file 4, is addressed as _________&#10;( )  T9:4/PRE&#10;( )    T4:9/PRE&#10; ( )   T4:9/PRE&#10; (x)   T4:9.PRE&#10;4. The retentive timer will retain its accumulated value during the following conditions:&#10;( )    When its rung goes false&#10; (x)   All&#10; ( )   Timer-enable bit&#10;  ( )  When processor losses power&#10;  ( )  When the processor operating mode is changed from remote run or remote test to remote program mode&#10;5. In word zero, of timer element, bit 14, is the _______&#10;(x)    Timer-timing bit&#10;  ( )  Timer-done bit&#10;  ( )  Timer-enable bit">
-<p>1. A timer element is made up of ___16 bit words.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Two</choice>
-    <choice correct="true">Three</choice>
-    <choice correct="false">One</choice>
-    <choice correct="false">Four</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2. In timer element, word zero is for _______</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Preset value</choice>
-    <choice correct="false">Status bits</choice>
-    <choice correct="false">Accumulated value</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3. The preset value of timer 9 , in default timer file 4, is addressed as _________</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">T9:4/PRE</choice>
-    <choice correct="false">T4:9/PRE</choice>
-    <choice correct="false">T4:9/PRE</choice>
-    <choice correct="true">T4:9.PRE</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4. The retentive timer will retain its accumulated value during the following conditions:</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">When its rung goes false</choice>
-    <choice correct="true">All</choice>
-    <choice correct="false">Timer-enable bit</choice>
-    <choice correct="false">When processor losses power</choice>
-    <choice correct="false">When the processor operating mode is changed from remote run or remote test to remote program mode</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5. In word zero, of timer element, bit 14, is the _______</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Timer-timing bit</choice>
-    <choice correct="false">Timer-done bit</choice>
-    <choice correct="false">Timer-enable bit</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1. A timer element is made up of ___16 bit words.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Two</choice>
+      <choice correct="true">Three</choice>
+      <choice correct="false">One</choice>
+      <choice correct="false">Four</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. In timer element, word zero is for _______</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Preset value</choice>
+      <choice correct="false">Status bits</choice>
+      <choice correct="false">Accumulated value</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. The preset value of timer 9 , in default timer file 4, is addressed as _________</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">T9:4/PRE</choice>
+      <choice correct="false">T4:9/PRE</choice>
+      <choice correct="false">T4:9/PRE</choice>
+      <choice correct="true">T4:9.PRE</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. The retentive timer will retain its accumulated value during the following conditions:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">When its rung goes false</choice>
+      <choice correct="true">All</choice>
+      <choice correct="false">Timer-enable bit</choice>
+      <choice correct="false">When processor losses power</choice>
+      <choice correct="false">When the processor operating mode is changed from remote run or remote test to remote program mode</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. In word zero, of timer element, bit 14, is the _______</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Timer-timing bit</choice>
+      <choice correct="false">Timer-done bit</choice>
+      <choice correct="false">Timer-enable bit</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

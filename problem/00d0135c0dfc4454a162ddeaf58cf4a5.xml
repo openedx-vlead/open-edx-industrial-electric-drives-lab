@@ -1,50 +1,44 @@
 <problem display_name="Multiple Choice" markdown="1. Timers are output instructions that are internal to the programmable logic controller.&#10;(x) The above statement is true&#10;( ) The above statement is false&#10;2. Timers are ___________&#10;( ) Used to delay an action&#10;( ) Used to record the total accumulated time of continuous or inter-mediate events&#10;( ) Used to run an operation for a predetermined period of time&#10;(x) All&#10;3. The timer 3, in default timer file 4, can be addressed as ________&#10;( ) T3:4&#10;( ) T4/3&#10;( ) T3/4&#10;(x) T4:3&#10;4. In timer file 12, timer 5’s timer timing bit is addressed as ________&#10;(x) T12:5.TT&#10;( ) T5:12/TT&#10;( ) T12:5/TT&#10;( ) T5:12.TT&#10;5. In word zero, of timer element, bit 13, is the _______&#10;( ) Timer-enable bit&#10;( ) Timer-timing bit&#10;(x) Timer-done bit">
-<p>1. Timers are output instructions that are internal to the programmable logic controller.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">The above statement is true</choice>
-    <choice correct="false">The above statement is false</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2. Timers are ___________</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Used to delay an action</choice>
-    <choice correct="false">Used to record the total accumulated time of continuous or inter-mediate events</choice>
-    <choice correct="false">Used to run an operation for a predetermined period of time</choice>
-    <choice correct="true">All</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3. The timer 3, in default timer file 4, can be addressed as ________</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">T3:4</choice>
-    <choice correct="false">T4/3</choice>
-    <choice correct="false">T3/4</choice>
-    <choice correct="true">T4:3</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4. In timer file 12, timer 5’s timer timing bit is addressed as ________</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">T12:5.TT</choice>
-    <choice correct="false">T5:12/TT</choice>
-    <choice correct="false">T12:5/TT</choice>
-    <choice correct="false">T5:12.TT</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5. In word zero, of timer element, bit 13, is the _______</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Timer-enable bit</choice>
-    <choice correct="false">Timer-timing bit</choice>
-    <choice correct="true">Timer-done bit</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1. Timers are output instructions that are internal to the programmable logic controller.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">The above statement is true</choice>
+      <choice correct="false">The above statement is false</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. Timers are ___________</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Used to delay an action</choice>
+      <choice correct="false">Used to record the total accumulated time of continuous or inter-mediate events</choice>
+      <choice correct="false">Used to run an operation for a predetermined period of time</choice>
+      <choice correct="true">All</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. The timer 3, in default timer file 4, can be addressed as ________</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">T3:4</choice>
+      <choice correct="false">T4/3</choice>
+      <choice correct="false">T3/4</choice>
+      <choice correct="true">T4:3</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. In timer file 12, timer 5’s timer timing bit is addressed as ________</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">T12:5.TT</choice>
+      <choice correct="false">T5:12/TT</choice>
+      <choice correct="false">T12:5/TT</choice>
+      <choice correct="false">T5:12.TT</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. In word zero, of timer element, bit 13, is the _______</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Timer-enable bit</choice>
+      <choice correct="false">Timer-timing bit</choice>
+      <choice correct="true">Timer-done bit</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>
