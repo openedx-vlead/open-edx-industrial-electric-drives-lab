@@ -1,58 +1,142 @@
 <problem display_name="Multiple Choice" markdown="1.&#10;&lt;p&gt;&lt;img src=&quot;/static/intro-self-ev.gif&quot; width=&quot;350&quot; height=&quot;150&quot; /&gt;&lt;/p&gt;&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/intro-self-a.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/intro-self-b.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/intro-self-c.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;(x) &lt;p&gt;&lt;img src=&quot;/static/intro-self-d.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;&#10;2.&#10;&lt;p&gt;&lt;img src=&quot;/static/intro-sel-ev2.gif&quot; width=&quot;350&quot; height=&quot;150&quot; /&gt;&lt;/p&gt;&#10;(x) &lt;p&gt;&lt;img src=&quot;/static/intro-sel-2a.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/intro-sel-2b.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/intro-sel-2c.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/intro-sel-2d.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;&#10;3.&#10;&lt;p&gt;&lt;img src=&quot;/static/intro-sel-ev3.gif&quot; width=&quot;350&quot; height=&quot;150&quot; /&gt;&lt;/p&gt;&#10;(x) &lt;p&gt;&lt;img src=&quot;/static/intro-sel-3a.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/intro-sel-3b.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/intro-sel-3c.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/intro-sel-3d.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;&#10;4.&#10;&lt;p&gt;&lt;img src=&quot;/static/intro-sel-ev4.gif&quot; width=&quot;350&quot; height=&quot;150&quot; /&gt;&lt;/p&gt;&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/intro-sel-4a.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/intro-sel-4b.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;(x) &lt;p&gt;&lt;img src=&quot;/static/intro-sel-4c.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/intro-sel-4d.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;&#10;5.&#10;&lt;p&gt;&lt;img src=&quot;/static/intro-sel-ev5.gif&quot; width=&quot;350&quot; height=&quot;150&quot; /&gt;&lt;/p&gt;&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/intro-sel-5a.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/intro-sel-5b.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;(x) &lt;p&gt;&lt;img src=&quot;/static/intro-sel-5c.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;&#10;( ) &lt;p&gt;&lt;img src=&quot;/static/intro-sel-5d.gif&quot; width=&quot;350&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;">
-<p>1.</p>
-<p><img src="/static/intro-self-ev.gif" width="350" height="150"/></p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false"><p><img src="/static/intro-self-a.gif" width="350" height="120"/></p></choice>
-    <choice correct="false"><p><img src="/static/intro-self-b.gif" width="350" height="120"/></p></choice>
-    <choice correct="false"><p><img src="/static/intro-self-c.gif" width="350" height="120"/></p></choice>
-    <choice correct="true"><p><img src="/static/intro-self-d.gif" width="350" height="120"/></p></choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2.</p>
-<p><img src="/static/intro-sel-ev2.gif" width="350" height="150"/></p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true"><p><img src="/static/intro-sel-2a.gif" width="350" height="120"/></p></choice>
-    <choice correct="false"><p><img src="/static/intro-sel-2b.gif" width="350" height="120"/></p></choice>
-    <choice correct="false"><p><img src="/static/intro-sel-2c.gif" width="350" height="120"/></p></choice>
-    <choice correct="false"><p><img src="/static/intro-sel-2d.gif" width="350" height="120"/></p></choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3.</p>
-<p><img src="/static/intro-sel-ev3.gif" width="350" height="150"/></p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true"><p><img src="/static/intro-sel-3a.gif" width="350" height="120"/></p></choice>
-    <choice correct="false"><p><img src="/static/intro-sel-3b.gif" width="350" height="120"/></p></choice>
-    <choice correct="false"><p><img src="/static/intro-sel-3c.gif" width="350" height="120"/></p></choice>
-    <choice correct="false"><p><img src="/static/intro-sel-3d.gif" width="350" height="120"/></p></choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4.</p>
-<p><img src="/static/intro-sel-ev4.gif" width="350" height="150"/></p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false"><p><img src="/static/intro-sel-4a.gif" width="350" height="120"/></p></choice>
-    <choice correct="false"><p><img src="/static/intro-sel-4b.gif" width="350" height="120"/></p></choice>
-    <choice correct="true"><p><img src="/static/intro-sel-4c.gif" width="350" height="120"/></p></choice>
-    <choice correct="false"><p><img src="/static/intro-sel-4d.gif" width="350" height="120"/></p></choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5.</p>
-<p><img src="/static/intro-sel-ev5.gif" width="350" height="150"/></p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false"><p><img src="/static/intro-sel-5a.gif" width="350" height="120"/></p></choice>
-    <choice correct="false"><p><img src="/static/intro-sel-5b.gif" width="350" height="120"/></p></choice>
-    <choice correct="true"><p><img src="/static/intro-sel-5c.gif" width="350" height="120"/></p></choice>
-    <choice correct="false"><p><img src="/static/intro-sel-5d.gif" width="350" height="120"/></p></choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1.</p>
+  <p>
+    <img src="/static/intro-self-ev.gif" width="350" height="150"/>
+  </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">
+        <p>
+          <img src="/static/intro-self-a.gif" width="350" height="120"/>
+        </p>
+      </choice>
+      <choice correct="false">
+        <p>
+          <img src="/static/intro-self-b.gif" width="350" height="120"/>
+        </p>
+      </choice>
+      <choice correct="false">
+        <p>
+          <img src="/static/intro-self-c.gif" width="350" height="120"/>
+        </p>
+      </choice>
+      <choice correct="true">
+        <p>
+          <img src="/static/intro-self-d.gif" width="350" height="120"/>
+        </p>
+      </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2.</p>
+  <p>
+    <img src="/static/intro-sel-ev2.gif" width="350" height="150"/>
+  </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">
+        <p>
+          <img src="/static/intro-sel-2a.gif" width="350" height="120"/>
+        </p>
+      </choice>
+      <choice correct="false">
+        <p>
+          <img src="/static/intro-sel-2b.gif" width="350" height="120"/>
+        </p>
+      </choice>
+      <choice correct="false">
+        <p>
+          <img src="/static/intro-sel-2c.gif" width="350" height="120"/>
+        </p>
+      </choice>
+      <choice correct="false">
+        <p>
+          <img src="/static/intro-sel-2d.gif" width="350" height="120"/>
+        </p>
+      </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3.</p>
+  <p>
+    <img src="/static/intro-sel-ev3.gif" width="350" height="150"/>
+  </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">
+        <p>
+          <img src="/static/intro-sel-3a.gif" width="350" height="120"/>
+        </p>
+      </choice>
+      <choice correct="false">
+        <p>
+          <img src="/static/intro-sel-3b.gif" width="350" height="120"/>
+        </p>
+      </choice>
+      <choice correct="false">
+        <p>
+          <img src="/static/intro-sel-3c.gif" width="350" height="120"/>
+        </p>
+      </choice>
+      <choice correct="false">
+        <p>
+          <img src="/static/intro-sel-3d.gif" width="350" height="120"/>
+        </p>
+      </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4.</p>
+  <p>
+    <img src="/static/intro-sel-ev4.gif" width="350" height="150"/>
+  </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">
+        <p>
+          <img src="/static/intro-sel-4a.gif" width="350" height="120"/>
+        </p>
+      </choice>
+      <choice correct="false">
+        <p>
+          <img src="/static/intro-sel-4b.gif" width="350" height="120"/>
+        </p>
+      </choice>
+      <choice correct="true">
+        <p>
+          <img src="/static/intro-sel-4c.gif" width="350" height="120"/>
+        </p>
+      </choice>
+      <choice correct="false">
+        <p>
+          <img src="/static/intro-sel-4d.gif" width="350" height="120"/>
+        </p>
+      </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5.</p>
+  <p>
+    <img src="/static/intro-sel-ev5.gif" width="350" height="150"/>
+  </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">
+        <p>
+          <img src="/static/intro-sel-5a.gif" width="350" height="120"/>
+        </p>
+      </choice>
+      <choice correct="false">
+        <p>
+          <img src="/static/intro-sel-5b.gif" width="350" height="120"/>
+        </p>
+      </choice>
+      <choice correct="true">
+        <p>
+          <img src="/static/intro-sel-5c.gif" width="350" height="120"/>
+        </p>
+      </choice>
+      <choice correct="false">
+        <p>
+          <img src="/static/intro-sel-5d.gif" width="350" height="120"/>
+        </p>
+      </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

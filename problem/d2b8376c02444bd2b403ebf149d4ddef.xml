@@ -1,54 +1,48 @@
 <problem display_name="Multiple Choice" markdown="1. Timers are __________&#10;&#10; ()   Used to record the total accumulated time of continuous or inter-mediate events&#10; (x)   All&#10;  ()  Used to run an operation for a predetermined period of time&#10;  ()  Used to delay an action&#10;  &#10;  2. ________ are used when an action is to begin a specified time after the input becomes true.&#10;&#10;  ()  Off-delay timers&#10; (x)   On-delay timers&#10; &#10; 3. The accumulated value of timer 12, in default timer file 4, is addressed as ________ .&#10;&#10;  ()  T9:4.ACC&#10;  ()  T9:4/ACC&#10;  (x)  T4:9.ACC&#10;  ()  T4:9/ACC&#10;  &#10;  4. In an on-delay timer, the enable bit will be true when the timer-timing bit is true. Timer enable bit will be set through the transition from the timer-timing bit to the timer-done bit. Timer enable bit is set as long as there is logical continuity through all input instruction to the timer instruction, no matter the relationship between the preset value and accumulated value.&#10;&#10; (x)   The above statement is true&#10; ()   The above statement is true in most of the cases&#10; ()   The above statement is false&#10; &#10; 5. In timer file 12, timer 5's timer timing bit is addressed as ________&#10;&#10;  ()  T5:12.TT&#10;  (x)  T12:5/TT&#10;  ()  T5:12/TT&#10;  ()  T12:5.TT">
-<p>1. Timers are __________</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Used to record the total accumulated time of continuous or inter-mediate events</choice>
-    <choice correct="true">All</choice>
-    <choice correct="false">Used to run an operation for a predetermined period of time</choice>
-    <choice correct="false">Used to delay an action</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>  </p>
-<p>  2. ________ are used when an action is to begin a specified time after the input becomes true.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Off-delay timers</choice>
-    <choice correct="true">On-delay timers</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p> </p>
-<p> 3. The accumulated value of timer 12, in default timer file 4, is addressed as ________ .</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">T9:4.ACC</choice>
-    <choice correct="false">T9:4/ACC</choice>
-    <choice correct="true">T4:9.ACC</choice>
-    <choice correct="false">T4:9/ACC</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>  </p>
-<p>  4. In an on-delay timer, the enable bit will be true when the timer-timing bit is true. Timer enable bit will be set through the transition from the timer-timing bit to the timer-done bit. Timer enable bit is set as long as there is logical continuity through all input instruction to the timer instruction, no matter the relationship between the preset value and accumulated value.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">The above statement is true</choice>
-    <choice correct="false">The above statement is true in most of the cases</choice>
-    <choice correct="false">The above statement is false</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p> </p>
-<p> 5. In timer file 12, timer 5's timer timing bit is addressed as ________</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">T5:12.TT</choice>
-    <choice correct="true">T12:5/TT</choice>
-    <choice correct="false">T5:12/TT</choice>
-    <choice correct="false">T12:5.TT</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1. Timers are __________</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Used to record the total accumulated time of continuous or inter-mediate events</choice>
+      <choice correct="true">All</choice>
+      <choice correct="false">Used to run an operation for a predetermined period of time</choice>
+      <choice correct="false">Used to delay an action</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>  2. ________ are used when an action is to begin a specified time after the input becomes true.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Off-delay timers</choice>
+      <choice correct="true">On-delay timers</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 3. The accumulated value of timer 12, in default timer file 4, is addressed as ________ .</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">T9:4.ACC</choice>
+      <choice correct="false">T9:4/ACC</choice>
+      <choice correct="true">T4:9.ACC</choice>
+      <choice correct="false">T4:9/ACC</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>  4. In an on-delay timer, the enable bit will be true when the timer-timing bit is true. Timer enable bit will be set through the transition from the timer-timing bit to the timer-done bit. Timer enable bit is set as long as there is logical continuity through all input instruction to the timer instruction, no matter the relationship between the preset value and accumulated value.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">The above statement is true</choice>
+      <choice correct="false">The above statement is true in most of the cases</choice>
+      <choice correct="false">The above statement is false</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 5. In timer file 12, timer 5's timer timing bit is addressed as ________</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">T5:12.TT</choice>
+      <choice correct="true">T12:5/TT</choice>
+      <choice correct="false">T5:12/TT</choice>
+      <choice correct="false">T12:5.TT</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>
