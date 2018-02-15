@@ -544,6 +544,47 @@
         "locked": false, 
         "thumbnail_location": null
     }, 
+    "exp1.swf": {
+        "contentType": "application/vnd.adobe.flash.movie", 
+        "content_son": {
+            "category": "asset", 
+            "course": "ee08", 
+            "name": "exp1.swf", 
+            "org": "Virtual-Labs", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "exp1.swf", 
+        "filename": "asset-v1:Virtual-Labs+ee08+Anytime+type@asset+block@exp1.swf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "frvb1.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "ee08", 
+            "name": "frvb1.png", 
+            "org": "Virtual-Labs", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "frvb1.png", 
+        "filename": "asset-v1:Virtual-Labs+ee08+Anytime+type@asset+block@frvb1.png", 
+        "import_path": "frvb1.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Virtual-Labs", 
+            "ee08", 
+            "thumbnail", 
+            "frvb1-png.jpg", 
+            null
+        ]
+    }, 
     "icons_Industrial_Electrical.png": {
         "contentType": "image/png", 
         "content_son": {
@@ -1357,6 +1398,54 @@
             "ee08", 
             "thumbnail", 
             "max1-gif.jpg", 
+            null
+        ]
+    }, 
+    "nitk-industrial-electric-drives.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "ee08", 
+            "name": "nitk-industrial-electric-drives.jpg", 
+            "org": "Virtual-Labs", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "nitk-industrial-electric-drives.jpg", 
+        "filename": "asset-v1:Virtual-Labs+ee08+Anytime+type@asset+block@nitk-industrial-electric-drives.jpg", 
+        "import_path": "nitk-industrial-electric-drives.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Virtual-Labs", 
+            "ee08", 
+            "thumbnail", 
+            "nitk-industrial-electric-drives.jpg", 
+            null
+        ]
+    }, 
+    "nitk-machine-dynamics-and-mechanical-vibration.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "ee08", 
+            "name": "nitk-machine-dynamics-and-mechanical-vibration.jpg", 
+            "org": "Virtual-Labs", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "nitk-machine-dynamics-and-mechanical-vibration.jpg", 
+        "filename": "asset-v1:Virtual-Labs+ee08+Anytime+type@asset+block@nitk-machine-dynamics-and-mechanical-vibration.jpg", 
+        "import_path": "nitk-machine-dynamics-and-mechanical-vibration.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Virtual-Labs", 
+            "ee08", 
+            "thumbnail", 
+            "nitk-machine-dynamics-and-mechanical-vibration.jpg", 
             null
         ]
     }, 

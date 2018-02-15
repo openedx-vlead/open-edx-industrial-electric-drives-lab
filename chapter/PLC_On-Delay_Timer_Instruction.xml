@@ -1,11 +1,11 @@
 <chapter display_name="PLC On-Delay Timer Instruction">
   <sequential url_name="PLC_On-Delay_Timer_Instruction_Theory"/>
   <sequential url_name="PLC_On-Delay_Timer_Instruction_Procedure"/>
-  <sequential url_name="PLC_On-Delay_Timer_Instruction_Self_Evaluation"/>
   <sequential url_name="PLC_On-Delay_Timer_Instruction_Simulator"/>
-  <sequential url_name="PLC_On-Delay_Timer_Instruction_Video"/>
   <sequential url_name="PLC_On-Delay_Timer_Instruction_Assignment"/>
-  <sequential url_name="PLC_On-Delay_Timer_Instruction_Reference"/>
+  <sequential url_name="PLC_On-Delay_Timer_Instruction_Self_Evaluation"/>
   <sequential url_name="PLC_On-Delay_Timer_Instruction_Quiz"/>
+  <sequential url_name="PLC_On-Delay_Timer_Instruction_Video"/>
+  <sequential url_name="PLC_On-Delay_Timer_Instruction_Reference"/>
   <sequential url_name="c1203999351b47b9a871409ea98d73bf"/>
 </chapter>

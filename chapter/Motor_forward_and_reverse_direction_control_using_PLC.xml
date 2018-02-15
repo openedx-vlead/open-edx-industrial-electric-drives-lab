@@ -1,11 +1,11 @@
 <chapter display_name="Motor forward and reverse direction control using PLC">
   <sequential url_name="Motor_forward_and_reverse_direction_control_using_PLC_Theory"/>
   <sequential url_name="Motor_forward_and_reverse_direction_control_using_PLC_Procedure"/>
-  <sequential url_name="Motor_forward_and_reverse_direction_control_using_PLC_Self_Evaluation"/>
   <sequential url_name="Motor_forward_and_reverse_direction_control_using_PLC_Simulator"/>
-  <sequential url_name="Motor_forward_and_reverse_direction_control_using_PLC_Video"/>
   <sequential url_name="Motor_forward_and_reverse_direction_control_using_PLC_Assignment"/>
-  <sequential url_name="Motor_forward_and_reverse_direction_control_using_PLC_Reference"/>
+  <sequential url_name="Motor_forward_and_reverse_direction_control_using_PLC_Self_Evaluation"/>
   <sequential url_name="Motor_forward_and_reverse_direction_control_using_PLC_Quiz"/>
+  <sequential url_name="Motor_forward_and_reverse_direction_control_using_PLC_Video"/>
+  <sequential url_name="Motor_forward_and_reverse_direction_control_using_PLC_Reference"/>
   <sequential url_name="05044c03d71143559f95bcb527e7e776"/>
 </chapter>
